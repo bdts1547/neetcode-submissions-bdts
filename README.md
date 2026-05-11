@@ -81,4 +81,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/bdts1547/neetcode-submissions-bdts/tree/main/0039-combination-sum/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3110-score-of-a-string](https://github.com/bdts1547/neetcode-submissions-bdts/tree/main/3110-score-of-a-string/) | Easy |
 <!---LeetCode Topics End-->
