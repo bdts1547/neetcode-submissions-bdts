@@ -1,37 +1,16 @@
 class Solution {
 public:
     int subsetXORSum(vector<int>& nums) {
-        int res = 0;
-        vector<int> subset;
-        backtracking(nums, 0, subset, res);
-        return res;
+        return backtracking(nums, 0, 0);
     }
 
-    void backtracking(const vector<int>& nums, int k, vector<int>& subset, int& res) {
-        if (k >= nums.size()) {
-            res += xorArray(subset);
-            int tmp = subset[0];
-            for (auto& n : subset) {
-                printf("%d ", n);
-            }
-            printf("t = %d  \n", xorArray(subset));
-            return;
+    int  backtracking(const vector<int>& nums, int k, int total) {
+        if (k == nums.size()) {
+            return total;
         }
 
-        subset.push_back(nums[k]); // 0-3 1-1 2-1
-        backtracking(nums, k + 1, subset, res);
-
-        subset.pop_back();
-        backtracking(nums, k + 1, subset, res);
+        return backtracking(nums, k + 1, nums[k] ^ total) + backtracking(nums, k + 1, total);
        
     }
 
-    int xorArray(vector<int> nums) {
-        if (nums.empty()) return 0;
-        int res = nums[0];
-        for (int i = 1; i < nums.size(); i++) {
-            res ^=  nums[i];
-        }
-        return res;
-    }
 };
