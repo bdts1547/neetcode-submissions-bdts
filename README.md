@@ -77,10 +77,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/bdts1547/neetcode-submissions-bdts/tree/main/0039-combination-sum/) | Medium |
+| [0046-permutations](https://github.com/bdts1547/neetcode-submissions-bdts/tree/main/0046-permutations/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/bdts1547/neetcode-submissions-bdts/tree/main/0039-combination-sum/) | Medium |
+| [0046-permutations](https://github.com/bdts1547/neetcode-submissions-bdts/tree/main/0046-permutations/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
