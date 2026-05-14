@@ -78,12 +78,14 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/bdts1547/neetcode-submissions-bdts/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/bdts1547/neetcode-submissions-bdts/tree/main/0046-permutations/) | Medium |
+| [0090-subsets-ii](https://github.com/bdts1547/neetcode-submissions-bdts/tree/main/0090-subsets-ii/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/bdts1547/neetcode-submissions-bdts/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/bdts1547/neetcode-submissions-bdts/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/bdts1547/neetcode-submissions-bdts/tree/main/0046-permutations/) | Medium |
+| [0090-subsets-ii](https://github.com/bdts1547/neetcode-submissions-bdts/tree/main/0090-subsets-ii/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/bdts1547/neetcode-submissions-bdts/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -96,6 +98,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0090-subsets-ii](https://github.com/bdts1547/neetcode-submissions-bdts/tree/main/0090-subsets-ii/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/bdts1547/neetcode-submissions-bdts/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
