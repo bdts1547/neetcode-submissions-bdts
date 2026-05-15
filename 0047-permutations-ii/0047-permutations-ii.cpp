@@ -1,21 +1,23 @@
 class Solution {
 public:
     vector<vector<int>> permuteUnique(vector<int>& nums) {
-        set<vector<int>> res;
+        sort(nums.begin(), nums.end());
+        vector<vector<int>> res;
         vector<int> subset;
         vector<bool> visited (nums.size(), false);
         backtracking(0, nums, visited, subset, res);
-        return vector<vector<int>> (res.begin(), res.end());
+        return res;
     }
 
     void backtracking(int i, const vector<int>& nums, vector<bool>& visited,
-    vector<int>& subset, set<vector<int>>& res) {
+    vector<int>& subset, vector<vector<int>>& res) {
         if (subset.size() == nums.size()) {
-            res.insert(subset);
+            res.push_back(subset);
             return;
         }
 
         for (int i = 0; i < nums.size(); i++) {
+            if (i > 0 && visited[i-1] && nums[i-1] == nums[i]) continue;
             if (!visited[i]) {
                 subset.push_back(nums[i]);
                 visited[i] = true;
