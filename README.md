@@ -84,6 +84,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/bdts1547/neetcode-submissions-bdts/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/bdts1547/neetcode-submissions-bdts/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/bdts1547/neetcode-submissions-bdts/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/bdts1547/neetcode-submissions-bdts/tree/main/0047-permutations-ii/) | Medium |
@@ -92,6 +93,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/bdts1547/neetcode-submissions-bdts/tree/main/0022-generate-parentheses/) | Medium |
 | [3110-score-of-a-string](https://github.com/bdts1547/neetcode-submissions-bdts/tree/main/3110-score-of-a-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -114,4 +116,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/bdts1547/neetcode-submissions-bdts/tree/main/0047-permutations-ii/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/bdts1547/neetcode-submissions-bdts/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
