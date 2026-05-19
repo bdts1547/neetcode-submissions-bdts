@@ -79,6 +79,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0039-combination-sum](https://github.com/bdts1547/neetcode-submissions-bdts/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/bdts1547/neetcode-submissions-bdts/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/bdts1547/neetcode-submissions-bdts/tree/main/0047-permutations-ii/) | Medium |
+| [0079-word-search](https://github.com/bdts1547/neetcode-submissions-bdts/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/bdts1547/neetcode-submissions-bdts/tree/main/0090-subsets-ii/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/bdts1547/neetcode-submissions-bdts/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Backtracking
@@ -89,12 +90,14 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0046-permutations](https://github.com/bdts1547/neetcode-submissions-bdts/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/bdts1547/neetcode-submissions-bdts/tree/main/0047-permutations-ii/) | Medium |
 | [0077-combinations](https://github.com/bdts1547/neetcode-submissions-bdts/tree/main/0077-combinations/) | Medium |
+| [0079-word-search](https://github.com/bdts1547/neetcode-submissions-bdts/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/bdts1547/neetcode-submissions-bdts/tree/main/0090-subsets-ii/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/bdts1547/neetcode-submissions-bdts/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/bdts1547/neetcode-submissions-bdts/tree/main/0022-generate-parentheses/) | Medium |
+| [0079-word-search](https://github.com/bdts1547/neetcode-submissions-bdts/tree/main/0079-word-search/) | Medium |
 | [3110-score-of-a-string](https://github.com/bdts1547/neetcode-submissions-bdts/tree/main/3110-score-of-a-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -121,4 +124,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/bdts1547/neetcode-submissions-bdts/tree/main/0022-generate-parentheses/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/bdts1547/neetcode-submissions-bdts/tree/main/0079-word-search/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/bdts1547/neetcode-submissions-bdts/tree/main/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->
